@@ -1,0 +1,35 @@
+PODS:
+  - Alamofire (4.8.2)
+  - NVActivityIndicatorView (4.7.0):
+    - NVActivityIndicatorView/Presenter (= 4.7.0)
+  - NVActivityIndicatorView/Presenter (4.7.0)
+  - ObjectMapper (3.5.1)
+  - RecastAI (3.5.0):
+    - Alamofire
+    - ObjectMapper
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - NVActivityIndicatorView
+  - RecastAI
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - NVActivityIndicatorView
+    - ObjectMapper
+    - RecastAI
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  NVActivityIndicatorView: b19ddab2576f805cbe0fb2306cba3476e09a1dea
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  RecastAI: d9abaf97f914a07cc10ee0cb8be89bfe2b942280
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 89b15f64d116ae0a69139e22caffec67b4ac0f3c
+
+COCOAPODS: 1.7.4
